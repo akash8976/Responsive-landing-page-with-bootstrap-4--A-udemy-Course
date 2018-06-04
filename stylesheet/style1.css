@@ -1,0 +1,279 @@
+body
+{
+  background-color: black;
+  font-family: 'Merriweather', serif;
+
+}
+.container
+{
+  padding-top: 20px;
+  background-color: white;
+  padding-bottom: 1%;
+}
+
+button.btn
+{
+    padding: 25px;
+    border-radius: 5px;
+}
+
+.btn-primary
+{
+  background-color:red;
+  font-size: 2em;
+  border: none;
+}
+
+.btn-primary:hover
+{
+  background-color: tomato;
+}
+
+
+.t1, .t3
+{
+  font-size: 1.5em;
+  line-height: 1em;
+}
+
+.t2
+{
+  font-size: 2.5em;
+  font-weight: 600;
+}
+
+
+.t4
+{
+  font-size: 1.3em;
+  line-height: 1.4em;
+}
+
+
+#row2
+{
+  padding-top: 20px;
+
+}
+
+
+
+#text_row
+{
+  padding-top: 18px;
+}
+
+
+.brush
+{
+  background-image: url("../images/brush1.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  color: white;
+  text-shadow: 3px 3px #094F71;
+}
+
+.rowbgr
+{
+  border-width: 5px;
+  border-style: dashed;
+  border-color: red;
+  background-color: midnightblue;
+  color: white;
+  margin-top: 2em;
+
+}
+
+
+h4
+{
+  margin-top: 1.5em;
+}
+
+.h4tag
+{
+  font-size: 1.8em;
+}
+
+.text-justify
+{
+  margin-top: 1.5em;
+  padding: 1.5em;
+}
+
+
+.learn
+{
+  padding-right: 6%;
+}
+
+
+#icons
+{
+  margin-top: 2em;
+}
+
+#testimonials
+{
+  margin-top: 2.5em;
+}
+
+#testimonials_images
+{
+  margin-top:11%;
+}
+
+
+#testimonials_images p
+{
+  margin-top: 4%;
+}
+
+
+.Bonus
+{
+  margin-top: 3.5em;
+}
+
+
+
+
+.bonus_images_text
+{
+  margin-top: 2em;
+}
+
+.bonus_images_text p{
+  padding-top: 0;
+}
+
+
+.action_section
+{
+  margin-top: 2.5em;
+}
+
+
+.price
+{
+  font-size: 2.5rem;
+  font-weight: 600;
+  color: tomato;
+}
+
+.social
+{
+  width: 3%;
+  margin-left: 1%;
+}
+
+
+.copyright
+{
+  margin-top: 4px;
+  font-size: 1.2em;
+  font-weight: 600%;
+  color: black;
+  letter-spacing: 1px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* comment */
